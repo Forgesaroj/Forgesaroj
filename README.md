@@ -30,20 +30,24 @@ I studied accounting first: BBS, Tribhuvan University, passed October 2025.
 ## What I'm building
 
 **Sahara Labs** — business software for small and medium businesses in Nepal and
-South Asia. Statuses below are exact. Nothing here is a launched product.
+South Asia. Statuses below are exact. Nothing here is released or deployed
+outside our own use, apart from Oddy Printer.
 
 | Project | What it is | Status |
 |---|---|---|
-| **SAHARA CORE** | Standalone accounting and business-control platform with its own accounting engine. Keyboard-first, web-based. The flagship. | **In active development · not publicly launched** |
-| **SAHARA Hospitality** | Connected restaurant operations — QR ordering, kitchen display, table service, cashier, stock, loyalty. | **Release 1 internally tested · not deployed** |
-| **SAHARA HRM** | Workforce operations for SMEs without a dedicated HR department. Biometric attendance integration. | **In development · no client deployment claimed** |
-| **SAHARA IDM** | One controlled workspace for import and export operations. | **Planned · not started** |
-| **SAHARA IVR** | Automated customer follow-up, intended as an optional add-on inside SAHARA CORE. | **R&D · planned add-on** |
+| **SAHARA CORE** | Standalone accounting and business-control platform with its own accounting engine. Keyboard-first, web-based. The flagship. | **Active development · internal testing · not launched** |
+| **SAHARA Hospitality** | Connected restaurant operations — QR ordering, kitchen display, table service, cashier, stock, loyalty. | **In development · internal test milestone passed · not released** |
+| **SAHARA HRM** | Workforce operations for SMEs without a dedicated HR department. Biometric attendance integration. | **Internal testing in our own business · no external deployment** |
+| **SAHARA IDM** | One controlled workspace for import and export operations. | **Internal-use development build · currently on hold · not production-ready** |
+| **SAHARA IVR** | Automated customer follow-up, intended as an optional add-on inside SAHARA CORE. | **Standalone testing · SAHARA CORE add-on not yet built** |
+| **Confirmation Portal** | Transaction confirmation and reconciliation as a SAHARA CORE plugin. Takes transaction data uploaded from Excel, with WhatsApp follow-up, and prepares Anusuchi-13 output. | **SAHARA CORE plugin · in testing** |
 | **[Oddy Printer](https://github.com/Forgesaroj/oddy-printer)** | Free browser tool for printing on Oddy A4 sticker sheets. All 21 sheet formats preconfigured. | **Live · free and open source** |
 
-**Fast-XML** was a completed TallyPrime integration project over ODBC, and the
-technical predecessor to SAHARA CORE. It is listed here as history, not as a
-current product.
+**Fast-XML** was a web-based TallyPrime integration over ODBC, and the technical
+predecessor to SAHARA CORE. Reliable handling for connection failures was never
+finished, and it stayed dependent on TallyPrime running correctly, so rather than
+release it I moved the accounting work into SAHARA CORE. It is listed here as
+history, not as a current product.
 
 Company formation for Sahara Labs is in progress.
 
