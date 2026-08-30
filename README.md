@@ -36,7 +36,7 @@ outside our own use, apart from Oddy Printer.
 | Project | What it is | Status |
 |---|---|---|
 | **SAHARA CORE** | Standalone accounting and business-control platform with its own accounting engine. Keyboard-first, web-based. The flagship. | **Active development · internal testing · not launched** |
-| **SAHARA Hospitality** | Connected restaurant operations — QR ordering, kitchen display, table service, cashier, stock, loyalty. | **In development · internal test milestone passed · not released** |
+| **SAHARA Hospitality** | Connected restaurant operations — QR ordering, kitchen display, table service, cashier, stock, loyalty. | **In development · 27/27 internal test milestone passed · not released** |
 | **SAHARA HRM** | Workforce operations for SMEs without a dedicated HR department. Biometric attendance integration. | **Internal testing in our own business · no external deployment** |
 | **SAHARA IDM** | One controlled workspace for import and export operations. | **Internal-use development build · currently on hold · not production-ready** |
 | **SAHARA IVR** | Automated customer follow-up, intended as an optional add-on inside SAHARA CORE. | **Standalone testing · SAHARA CORE add-on not yet built** |
