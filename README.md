@@ -72,6 +72,28 @@ Company formation for Sahara Labs is in progress.
 
 ---
 
+## GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Forgesaroj&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.zohan.tech/api?username=Forgesaroj&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Forgesaroj&layout=compact&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Forgesaroj&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <em>Cards count public activity only — most of my work lives in private Sahara Labs repos.<br/>
+  The contribution graph above them tells the fuller story.</em>
+</p>
+
+---
+
 <p align="center">
   <em>Built, not given.</em>
 </p>
