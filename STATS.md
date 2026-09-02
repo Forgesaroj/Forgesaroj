@@ -13,6 +13,13 @@
   <img src="https://streak-stats.demolab.com?user=Forgesaroj&hide_border=true" alt="Contribution streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Forgesaroj/Forgesaroj/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Forgesaroj/Forgesaroj/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
 ## Overview
 
 <p align="center">
@@ -54,6 +61,33 @@ Snapshot taken 2 September 2026. The cards above update themselves; this table d
 | Public repositories | **5** |
 | Stars across public repos | **17** |
 | On GitHub since | **16 October 2024** |
+
+### Contribution record
+
+Computed from the full contribution calendar, all years.
+
+| Stat | Value |
+|---|---|
+| All-time contributions | **8,169** |
+| — of which in 2026 alone | **8,166** |
+| Current streak | **92 days**, ongoing as of the snapshot |
+| Longest streak | **92 days** — it's the current one |
+| Busiest single day | **343 contributions** — 23 August 2026 |
+| Average per active day | **52.4** |
+| Biggest month | **August 2026 — 3,440** |
+| Second | June 2026 — 1,356 |
+| Third | May 2026 — 1,265 |
+
+### Code by language
+
+Bytes of code across public repositories. (Private repos would tell a TypeScript story instead.)
+
+| Language | Bytes | Share |
+|---|---|---|
+| PHP | 526,445 | 58.9% |
+| HTML | 290,301 | 32.5% |
+| JavaScript | 41,631 | 4.7% |
+| CSS | 35,874 | 4.0% |
 
 ### Public repositories
 
