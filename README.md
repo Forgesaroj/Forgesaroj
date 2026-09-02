@@ -92,6 +92,10 @@ Company formation for Sahara Labs is in progress.
   The contribution graph above them tells the fuller story.</em>
 </p>
 
+<p align="center">
+  <strong><a href="./STATS.md">All stats, in one place →</a></strong>
+</p>
+
 ---
 
 <p align="center">
