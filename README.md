@@ -84,16 +84,17 @@ Company formation for Sahara Labs is in progress.
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Forgesaroj&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Forgesaroj&theme=default" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Forgesaroj&theme=default" alt="Summary stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Forgesaroj&theme=default&utcOffset=5.75" alt="Commits by time of day" height="180" />
 </p>
 
 <p align="center">
   <em>Cards count public activity only — most of my work lives in private Sahara Labs repos.<br/>
   The contribution graph above them tells the fuller story.</em>
-</p>
-
-<p align="center">
-  <strong><a href="./STATS.md">All stats, in one place →</a></strong>
 </p>
 
 ---
