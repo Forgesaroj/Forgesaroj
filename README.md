@@ -79,6 +79,13 @@ Company formation for Sahara Labs is in progress.
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Forgesaroj/Forgesaroj/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Forgesaroj/Forgesaroj/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.zohan.tech/api?username=Forgesaroj&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Forgesaroj&layout=compact&hide_border=true" alt="Top languages" height="165" />
 </p>
